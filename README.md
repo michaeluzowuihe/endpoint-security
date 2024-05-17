@@ -1,2 +1,2 @@
-# Endpoint Security Labs & Packet Tracer Activities @NetAcad
+# Endpoint Security Labs & Packet Tracer Activities
 
