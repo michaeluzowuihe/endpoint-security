@@ -1,4 +1,4 @@
-# Endpoint Security Labs & Packet Tracer Activities
+# Endpoint Security
 ## Course Introduction 
 ### Packet Tracer - Logical and Physical Mode Exploration
 #### In this activity, I achieved the the following primary objectives:
