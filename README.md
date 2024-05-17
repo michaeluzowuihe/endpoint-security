@@ -1,2 +1,2 @@
-# endpoint-security
-endpoint security lab and packet tracer activities @ skillsforall (cisco networking academy)
+# Endpoint Security Labs & Packet Tracer Activities @ SkillsForAll (Cisco Networking Academy)
+
