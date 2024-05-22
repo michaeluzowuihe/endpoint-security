@@ -1,6 +1,6 @@
 # Endpoint Security 
-## Logical and Physical Mode Exploration
-### In this activity, I achieved the the following primary objectives:
+### Logical and Physical Mode Exploration
+#### In this activity, I achieved the the following primary objectives:
 1. Investigated Devices in the Wiring Closet
 2. Connected End Devices to Networking Devices
 3. Installed a Backup Router
