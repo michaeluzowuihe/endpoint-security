@@ -19,5 +19,5 @@
    - Posed as a victim and followed the phishing instructions.
 3. Investigated a Wireless Network and DNS Vulnerability
    - Connected to the threat actor’s wireless network.
-   - Visited your favorite social media site.
+   - Visited a favorite social media site.
    - Investigated the source of the attack.
