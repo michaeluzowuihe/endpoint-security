@@ -21,3 +21,9 @@
    - Connected to the threat actor’s wireless network.
    - Visited a favorite social media site.
    - Investigated the source of the attack.
+
+### Configure Basic Wireless Security
+1. Verified connectivity
+2. Configured basic wireless security
+3. Updated the wireless settings on Laptop
+
