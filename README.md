@@ -27,8 +27,3 @@
 2. Configured basic wireless security
 3. Updated the wireless settings on Laptop
 
-### Troubleshoot a Wireless Connection
-At a local library, I learned that a patron is unable to access the internet on one of the laptops. All the computers are configured with DHCP IP addressing except for the wireless user on Laptop1, who is complaining that www.cisco.pka cannot be reached. I Identified and resolved the issue, then verified the resolution through:
-1. Identifying faults in the wireless network.
-2. Correcting misconfigured devices in the wireless network.
-
