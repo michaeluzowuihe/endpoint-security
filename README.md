@@ -55,7 +55,7 @@ At a local library, the librarian learns that a patron is unable to access the i
 - Set up a virtual machine on a computer so that it is ready to use
 
 ### Attacking a MySQL Database
-Viewed a PCAP file from a previous attack against a SQL database.
+Viewed a PCAP file from a previous attack against a SQL database:
 - Opened Wireshark and loaded the PCAP file
 - Viewed the SQL Injection Attack
 - The SQL Injection Attack provided system information
@@ -66,9 +66,56 @@ Viewed a PCAP file from a previous attack against a SQL database.
 - Examined Log Files and Syslog, Log Files and journalctl
 
 ### Recommend Threat Mitigation Measures
-- Reviewed an Incident at a Video Production Company, then a Retail Company
+- Reviewed an Incident at a Video Production Company, and then a Retail Company
 
 ### Exploring Processes, Threads, Handles, and Windows Registry
-Used Process Explorer in the SysInternals Suite and Windows Registry to change a setting.
+Used Process Explorer in the Sysinternals Suite and Windows Registry to change a setting:
 - Explored Processes, Threads and Handles, Windows Registry
+
+### Create User Accounts
+- Created a New Local User Account
+- Reviewed User Account Properties and Modified Local User Accounts
+
+### Using Windows PowerShell
+- Explored Command Prompt and PowerShell commands
+- Explored cmdlets, and netstat commands using PowerShell
+- Emptied recycle bin using PowerShell
+
+### Windows Task Manager
+Explored the Task Manager and managed processes from within the Task Manager:
+- Worked in the Processes, Services and the Performance tab
+
+### Monitor and Manage System Resources in Windows
+Used administrative tools to monitor and manage Windows system resources:
+- Started and Stopped the Routing and Remote Access Service
+- Worked in the Computer Management Utility and Configured Administrative Tools
+
+### Working with Text Files in the CLI
+Got familiar with Linux command-line text editors and configuration files
+
+### Getting Familiar with the Linux Shell
+Used the Linux command line to manage files and folders and perform some basic administrative tasks:
+- Copied, Deleted, and Moved Files
+
+### Use a Port Scanner to Detect Open Ports
+Used Nmap, a port scanner and network mapping tool to detect open ports
+
+### Linux Servers
+Used the Linux command line to identify servers that are running on a computer
+
+### Locating Log Files
+Got familiar with locating and manipulating Linux log files:
+- Located Log Files in Unknown Systems and Monitored them in Real Time
+
+### Navigating the Linux Filesystem and Permission Settings
+Familiarized myself with Linux filesystems:
+- Explored Filesystems, File Permissions, Symbolic Links and other Special File Types in Linux
+
+### Configure Security Features in Windows and Linux
+Created restore points and backups for use in Windows and Linux systems. Furthermore, configured the Windows Defender Firewall to allow desired traffic. Configured the Uncomplicated Firewall (UFW) to block unsecured Telnet traffic in the Linux system. Disabled Telnet services.
+
+### Harden a Linux System
+Used a security auditing tool to discover system vulnerabilities and implement recommended solutions to harden the system:
+- Examined the current version of Lynis & Ran the Lynis tool
+- Reviewed the results of the scan and addressed any warnings
 
