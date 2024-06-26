@@ -45,3 +45,30 @@ At a local library, the librarian learns that a patron is unable to access the i
 
 ### Exploring Social Engineering Techniques
 - Explored social engineering techniques
+
+### Exploring DNS Traffic
+- Captured DNS Traffic
+- Explored DNS Query Traffic
+- Explored DNS Response Traffic
+
+### Installing a Virtual Machine on a Personal Computer
+- Set up a virtual machine on a computer so that it is ready to use
+
+### Attacking a MySQL Database
+Viewed a PCAP file from a previous attack against a SQL database.
+- Opened Wireshark and loaded the PCAP file
+- Viewed the SQL Injection Attack
+- The SQL Injection Attack provided system information
+- Ascertained the Injection Attack and Table Information
+
+### Reading Server Logs
+- Read Log Files with cat, more, and less
+- Examined Log Files and Syslog, Log Files and journalctl
+
+### Recommend Threat Mitigation Measures
+- Reviewed an Incident at a Video Production Company, then a Retail Company
+
+### Exploring Processes, Threads, Handles, and Windows Registry
+Used Process Explorer in the SysInternals Suite and Windows Registry to change a setting.
+- Explored Processes, Threads and Handles, Windows Registry
+
