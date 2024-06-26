@@ -33,6 +33,13 @@ At a local library, the librarian learns that a patron is unable to access the i
 2. Corrected misconfigured devices in the wireless network
 3. Verified the resolution
 
+### Access Control List (ACL) Demonstration
+1. Verified Local Connectivity and Test Access Control List
+   - Pinged devices on the local network to verify connectivity
+   - Ping devices on remote networks to test ACL functionality
+2. Removed Access Control List and Repeat Test
+   - Used show commands to investigate the ACL configuration
+   - Removed access-list 11 from the configuration
 
 ## Lab Activities
 
