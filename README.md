@@ -40,6 +40,24 @@ At a local library, the librarian learns that a patron is unable to access the i
 2. Removed Access Control List and Repeat Test
    - Used show commands to investigate the ACL configuration
    - Removed access-list 11 from the configuration
+  
+### File and Data Integrity Checks
+1. Recovered Files after a Cyber Attack
+   - Accessed the BR Server from Mike’s PC
+   - Copied the hash values from the last time the files were archived
+   - Downloaded the backup files to Mike’s PC
+2. Used Hashing to Verify File Integrity
+   - Checked the hashes on the client files on Mike’s PC
+   - Escalated the cyber attack to Mike's supervisor, Sally
+   - Downloaded the suspected file to Sally’s PC
+3. Used HMAC to Verify File Integrity
+
+### Explore File and Data Encryption
+1. Discover the FTP Account Credentials for Mary
+2. Upload Confidential Data using FTP
+3. Discover the FTP Account Credentials for Bob
+4. Download Confidential Data using FTP
+5. Decrypt the Contents of a Sensitive File
 
 ## Lab Activities
 
@@ -127,4 +145,11 @@ Used a tool to recover user passwords and changed a user password to a stronger 
 
 ### Recommend Endpoint Security Measures
 Recommended Mitigation Procedures to Address Vulnerabilities, and an Endpoint Protection Product for a New Network.
+
+### Online Malware Investigation Tools
+- Performed Static Analysis
+- Reviewed Dynamic Analysis Results and Learned More About the Exploit
+
+### The Cybersecurity Sorcery Cube Scatter Quizlet
+Identified the three dimensions of the Cybersecurity Sorcery Cube and the elements of each dimension
 
