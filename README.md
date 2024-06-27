@@ -119,3 +119,12 @@ Used a security auditing tool to discover system vulnerabilities and implement r
 - Examined the current version of Lynis & Ran the Lynis tool
 - Reviewed the results of the scan and addressed any warnings
 
+### Recover Passwords
+Used a tool to recover user passwords and changed a user password to a stronger password:
+- Combined passwords and usernames into one text file
+- Ran John the Ripper to recover the passwords
+- Changed a user password to a stronger version and tried to recover it
+
+### Recommend Endpoint Security Measures
+Recommended Mitigation Procedures to Address Vulnerabilities, and an Endpoint Protection Product for a New Network.
+
