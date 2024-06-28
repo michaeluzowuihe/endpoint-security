@@ -53,11 +53,22 @@ At a local library, the librarian learns that a patron is unable to access the i
 3. Used HMAC to Verify File Integrity
 
 ### Explore File and Data Encryption
-1. Discover the FTP Account Credentials for Mary
-2. Upload Confidential Data using FTP
-3. Discover the FTP Account Credentials for Bob
+1. Discovered the FTP Account Credentials for Mary
+   - Accessed the text document on Mary's Laptop
+   - Decrypted Mary’s FTP account information
+2. Uploaded Confidential Data using FTP
+   - Viewed the confidential document on Laptop BR-1
+   - Connected to the BR Server
+   - Uploaded a file to the FTP server
+3. Discovered the FTP Account Credentials for Bob
+   - Accessed the text document on Bob's Laptop
+   - Decrypted Bob’s FTP account information
 4. Download Confidential Data using FTP
-5. Decrypt the Contents of a Sensitive File
+   - Connected to the BR Server
+   - Downloaded the file to Bob’s PC
+5. Decrypted the Contents of a Sensitive File
+   - Got the decryption key
+   - Decrypted the contents of the clientinfo.enc file
 
 ## Lab Activities
 
