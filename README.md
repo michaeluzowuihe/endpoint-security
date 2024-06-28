@@ -162,5 +162,7 @@ Recommended Mitigation Procedures to Address Vulnerabilities, and an Endpoint Pr
 - Reviewed Dynamic Analysis Results and Learned More About the Exploit
 
 ### The Cybersecurity Sorcery Cube Scatter Quizlet
-Identified the three dimensions of the Cybersecurity Sorcery Cube and the elements of each dimension
+Identified the three dimensions of the Cybersecurity Sorcery Cube and the elements of each dimension.
 
+### Data Security Challenges
+Secured Data at Rest, in Transit and in Process.
