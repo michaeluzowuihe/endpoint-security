@@ -166,3 +166,6 @@ Identified the three dimensions of the Cybersecurity Sorcery Cube and the elemen
 
 ### Data Security Challenges
 Secured Data at Rest, in Transit and in Process.
+
+## Digital Certificate or Badge
+https://www.credly.com/badges/09b606cc-bd34-41dd-96ad-0a4011ae37b2/public_url
